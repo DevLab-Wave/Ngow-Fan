@@ -1,0 +1,11 @@
+/node_modules/
+/.next/
+/out/
+/build/
+*.pem
+.DS_Store
+*.pem
+.env*.local
+.vercel
+.idea
+.vscode
