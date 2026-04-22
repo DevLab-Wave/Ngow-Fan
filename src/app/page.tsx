@@ -87,7 +87,7 @@ export default function Home() {
 
         <div className="relative w-full h-48 sm:h-56 md:h-64 lg:h-80 flex items-center justify-center">
           <img
-            src={`/images/sorry/sorry_level${sorryLevel}.png`}
+            src={`/images/Sorry/sorry_level${sorryLevel}.png`}
             alt={`Sorry level ${sorryLevel}`}
             className="w-full h-full object-contain max-w-sm"
           />
